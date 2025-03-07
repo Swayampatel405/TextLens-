@@ -1,7 +1,5 @@
 # 📸 TextLens - Image to Speech & Text Extractor
 
-![TextLens](https://your-image-url.com)
-
 TextLens is a powerful Android application built using **Kotlin** and **Jetpack Compose** that allows users to extract text from images and read it aloud using **Text-to-Speech (TTS)**. With an intuitive UI and seamless user experience, TextLens enhances accessibility and productivity.
 
 ## 🚀 Features
@@ -16,7 +14,12 @@ TextLens is a powerful Android application built using **Kotlin** and **Jetpack 
 
 | Capture Image | Extracted Text | Read Aloud |
 |--------------|--------------|--------------|
-| ![Screen1](https://your-image-url.com) | ![Screen2](https://your-image-url.com) | ![Screen3](https://your-image-url.com) |
+| ![Screen1]([https://your-image-url.com](https://drive.google.com/file/d/14mdeOsgBg0FtY7YDb-cKrtYsBB3JHWTf/view?usp=drive_link)) | ![Screen2]([https://your-image-url.com](https://drive.google.com/file/d/1NxloZPh7Jo7NXHAGvd0fQZzdS7Qdi4G7/view?usp=drive_link)) | ![Screen3]([https://your-image-url.com](https://drive.google.com/file/d/1NxloZPh7Jo7NXHAGvd0fQZzdS7Qdi4G7/view?usp=drive_link)) |
+
+## 🎥 Working Video
+
+Watch TextLens in action:  
+[![Watch the video]([https://your-thumbnail-url.com)](https://your-video-url.com](https://drive.google.com/file/d/16skTNLuxpXDwg_5X8PcozuydYmbZt0yP/view?usp=drive_link))
 
 ## 🔧 Tech Stack
 
