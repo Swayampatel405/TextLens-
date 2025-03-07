@@ -13,7 +13,10 @@ TextLens is a powerful Android application built using **Kotlin** and **Jetpack 
 ## 📱 Screenshots
 
 | Capture Image | Extracted Text | Read Aloud | Copy Text |
-<img src="app/src/main/java/com/appvantage/imagetospeech/ui/screenshots/Text_Lens_camera.jpg" width="400"><img src="app/src/main/java/com/appvantage/imagetospeech/ui/screenshots/Imagetotext_TextLens.jpg" width="400"><img src="app/src/main/java/com/appvantage/imagetospeech/ui/screenshots/ui_TextLens.jpg" width="400"><img src="app/src/main/java/com/appvantage/imagetospeech/ui/screenshots/Copy_to_clipboard_TextLens.jpg" width="400">
+<img src="app/src/main/java/com/appvantage/imagetospeech/ui/screenshots/Text_Lens_camera.jpg" width="400">
+<img src="app/src/main/java/com/appvantage/imagetospeech/ui/screenshots/Imagetotext_TextLens.jpg" width="400">
+<img src="app/src/main/java/com/appvantage/imagetospeech/ui/screenshots/ui_TextLens.jpg" width="400">
+<img src="app/src/main/java/com/appvantage/imagetospeech/ui/screenshots/Copy_to_clipboard_TextLens.jpg" width="400">
 
 ## 🎥 Working Video
 
