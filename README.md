@@ -18,7 +18,7 @@ TextLens is a powerful Android application built using **Kotlin** and **Jetpack 
 ## 🎥 Working Video
 
 Watch TextLens in action:  
-[![Watch the video]((app/src/main/java/com/appvantage/imagetospeech/ui/screenshots/video_TextLens.mp4))]
+[![Watch the video]](app/src/main/java/com/appvantage/imagetospeech/ui/screenshots/ui_TextLens.jpg)
 
 ## 🔧 Tech Stack
 
