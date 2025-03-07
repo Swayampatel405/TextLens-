@@ -12,14 +12,14 @@ TextLens is a powerful Android application built using **Kotlin** and **Jetpack 
 
 ## 📱 Screenshots
 
-| Capture Image | Extracted Text | Read Aloud |
+| Capture Image | Extracted Text | Read Aloud | Copy Text |
 |--------------|--------------|--------------|
-| ![Screen1]([https://your-image-url.com](https://drive.google.com/file/d/14mdeOsgBg0FtY7YDb-cKrtYsBB3JHWTf/view?usp=drive_link)) | ![Screen2]([https://your-image-url.com](https://drive.google.com/file/d/1NxloZPh7Jo7NXHAGvd0fQZzdS7Qdi4G7/view?usp=drive_link)) | ![Screen3]([https://your-image-url.com](https://drive.google.com/file/d/1NxloZPh7Jo7NXHAGvd0fQZzdS7Qdi4G7/view?usp=drive_link)) |
+| ![Screen1](app/src/main/java/com/appvantage/imagetospeech/ui/screenshots/Text_Lens_camera.jpg) | ![Screen2](app/src/main/java/com/appvantage/imagetospeech/ui/screenshots/Imagetotext_TextLens.jpg) | ![Screen3](app/src/main/java/com/appvantage/imagetospeech/ui/screenshots/ui_TextLens.jpg) | ![Screen4](app/src/main/java/com/appvantage/imagetospeech/ui/screenshots/Copy_to_clipboard_TextLens.jpg) | 
 
 ## 🎥 Working Video
 
 Watch TextLens in action:  
-[![Watch the video]([https://your-thumbnail-url.com)](https://your-video-url.com](https://drive.google.com/file/d/16skTNLuxpXDwg_5X8PcozuydYmbZt0yP/view?usp=drive_link))
+[![Watch the video]((app/src/main/java/com/appvantage/imagetospeech/ui/screenshots/video_TextLens.mp4))
 
 ## 🔧 Tech Stack
 
